@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "dsteem": "^0.8.1"
+  }
+}
