@@ -1,5 +1,4 @@
-
-# [ddpayv1](https://github.com/dpays/ddpayv1)
+# THIS REPO/LIBRARY IS NOT MAINTAIN AND DEPRECATED IN FAVOR OF [ddpay](https://github.com/dpays/ddpay)
 
 Robust [dPay blockchain](https://dpays.io) client library that runs in both node.js and the browser.
 
